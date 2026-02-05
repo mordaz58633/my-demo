@@ -6,3 +6,4 @@ dependencies:
   - xeus-python
   - ipycanvas
   - xeus-cpp
+  - matplotlib
